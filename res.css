@@ -1,0 +1,157 @@
+@media only screen and (max-width: 600px) {
+    html{
+        width: 440px;
+    }
+    .text, .text2{
+        font-size: 26px;
+        left: 30px;
+    }
+
+    .text2{
+        top: 160px;
+        font-weight: 400;
+    }
+
+    .text{
+        font-weight: 100;
+    }
+
+    .floating-island{
+        margin-left: 2.8rem;
+        width: 80vw;
+    }
+     .up p{
+        margin-left: 0rem;
+     }
+    .card{
+        margin-left: 0rem;
+        margin-bottom: 10px;
+    }
+    .below{
+        flex-wrap: wrap;
+    }
+
+    .porter-footprint-cont .footprint-title-cont h2{
+        font-size: 30px;
+    }
+
+    .growth{
+        margin-left: 6rem;
+    }
+
+    .porter-footprint-cont .footprint-title-cont h2{
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+        margin-left: 0.7rem;
+    }
+
+    .map-img{
+        margin-left: 3rem;
+    }
+    .map-img img{
+        height: 400px;
+        width: 350px;
+    }
+
+    .cust-rev-title h2{
+        font-size: 0.8rem;
+        margin-left: 1rem;
+    }
+
+    .person1{
+        margin-left: 1.2rem;
+    }
+
+    .news{
+        margin-left: 4.5rem;
+        line-height: 2rem;
+        overflow: visible;
+        margin-top: 1px;
+        width: 70vw;
+    }
+
+    .reviews{
+        margin-bottom: 0rem;
+    }
+
+    .news p{
+        font-size: 1rem;
+    }
+
+    .dots{
+        margin-left: 11rem;
+    }
+
+    .dot{
+        height: 5px;
+        width: 5px;
+    }
+
+    .questions h3{
+        margin-left: 5rem;
+        font-size: 30px;
+    }
+
+    .questions p{
+        margin-left: 4rem;
+        font-size: 15px;
+        word-wrap: break-word;
+        width: 300px;
+    }
+
+    .list-up{
+        flex-wrap: wrap;
+    }
+
+    .list-up .list{
+        margin-right: 3.5rem;
+        margin-top: 5rem;
+    }
+
+    .list-down{
+        flex-wrap: wrap;
+    }
+
+    .list-down .list{
+        margin-right: 5rem;
+        margin-bottom: 3rem;
+    }
+
+    .mum-li{
+        margin-left: 1rem;
+    }
+  }
+
+  @media only screen and (min-width: 600px) and (max-width: 900px) {
+    .below{
+        flex-wrap: wrap;
+    }
+
+    .floating-island{
+        margin-left: 0rem;
+    }
+
+    .cust-rev-title h2{
+        margin-left: 0rem;
+    }
+
+    .news{
+        margin-left: 16rem;
+    }
+
+    .dots{
+        margin-left: 30rem;
+    }
+
+    .questions{
+        margin-left: 0rem;
+    }
+
+    .questions h3{
+        margin-left: 15rem;
+    }
+
+    .questions p{
+        margin-left: 15rem;
+    }
+  }
